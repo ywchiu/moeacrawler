@@ -5,3 +5,6 @@
 
 ### Anaconda
 - http://repo.continuum.io/archive/Anaconda2-4.1.1-Windows-x86_64.exe
+
+### Anaconda 安裝說明
+- https://www.slideshare.net/secret/sHeqNuFc7lwpiE
