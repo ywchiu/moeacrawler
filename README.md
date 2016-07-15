@@ -8,3 +8,6 @@
 
 ### Anaconda 安裝說明
 - https://www.slideshare.net/secret/sHeqNuFc7lwpiE
+
+### Python 基礎投影片
+- https://www.slideshare.net/secret/sSxNvAoVOhTada
